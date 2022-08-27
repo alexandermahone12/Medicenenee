@@ -2,5 +2,13 @@
   {
     "title": "Panadol",
     "link": "http://localhost:3000/panadol"
+  },
+  {
+    "title": "Cortisone",
+    "link": "http://localhost:3000/cortisone"
+  },
+  {
+    "title": "ahen",
+    "link": "http://localhost:3000/ahen"
   }
 ]
