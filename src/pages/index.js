@@ -4,7 +4,8 @@ import BookData from "../Data.json";
 const Home = () => {
   return (
     <div>
-      <SearchBar placeholder="Search any medicine..." data={BookData} />
+      <h1>Find Medicines</h1>
+      <SearchBar placeholder="Enter a medicine..." data={BookData} />
     </div>
   );
 };
