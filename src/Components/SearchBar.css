@@ -2,8 +2,12 @@
   margin-top: 105px;
   border-radius: 25px;
   display: flex;
-  padding: 44px;
-  
+  padding: 1em;
+  position: absolute;
+  top: 20%;
+  left: 51%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
 }
 
 .search input {
@@ -51,6 +55,11 @@ input:focus {
   border-radius: 25px;
   border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
+  position: absolute;
+    top: 49%;
+    left: 47.2%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 
 .dataResult::-webkit-scrollbar {

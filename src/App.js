@@ -1,4 +1,5 @@
 import React from "react";
+import "@fontsource/manrope";
 import "./App.css";
 import SearchBar from "./Components/SearchBar";
 import BookData from "./Data.json";
