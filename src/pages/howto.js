@@ -1,10 +1,12 @@
 import React from 'react';
-
+import '../pagescss/howto.css'
 const Howto = () => {
   return (
-    <div>
+    <div className="contenthowto">
       <h1>How to use</h1>
-    </div>
+      <h2>To use the search engine, simply type the the wanted medicine's name into the search bar and click on the result. if you do not find the medicine you are looking for, please contact this email: ale48448@gmail.com</h2>
+      </div>
+
   );
 };
 

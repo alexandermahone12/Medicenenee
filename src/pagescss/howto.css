@@ -1,0 +1,18 @@
+.contenthowto h2{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+    padding: 1em;
+    position: absolute;
+    left:53%;
+    transform: translate(-50%, 50%)
+}
+.contenthowto h1{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+    padding: 1em;
+    position: absolute;
+
+    transform: translate(-50%, 20%)
+}

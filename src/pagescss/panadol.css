@@ -1,0 +1,50 @@
+.panadol h1{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+    padding: 1em;
+    position: absolute;
+
+    transform: translate(70%, -20%)
+}
+h2.one{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+    padding: 1em;
+    position: absolute;
+    max-width: 800px;
+    transform: translate(25%, 70%)
+
+}
+
+h2.two{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+    padding: 1em;
+    position: absolute;
+    max-width: 800px;
+    transform: translate(25%, 50%)
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    transform: translate(-75%,25%);
+
+}
+
+.images img {
+    flex-basis: 33%;
+    padding: 2px;
+    max-height: 300px;
+
+}
+.hoverbutton{
+    transform: translate(0%,800%);
+}
+.hoverlabel{
+    transform: translate(0%,900%);
+}

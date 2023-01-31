@@ -9,7 +9,6 @@ import Home from './pages';
 import About from './pages/about';
 import Goal from './pages/goal';
 import Howto from './pages/howto';
-import Ahen from './pages/ahen';
 /*import SignUp from './pages/signup';*/
 import Relaiability from './pages/relaiability';
 import Panadol from './pages/panadol';
@@ -29,7 +28,6 @@ function App() {
       <Route path='/goal' component={Goal} />
       <Route path='/relaiability' component={Relaiability} />
       <Route path='/panadol' component={Panadol} />
-      <Route path='/ahen' component={Ahen} />
       </Switch>
     </Router>
 
