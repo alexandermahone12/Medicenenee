@@ -14,6 +14,7 @@ import Relaiability from './pages/relaiability';
 import Panadol from './pages/panadol';
 import './App.css';
 
+process.env.PORT || 5000
 
 function App() {
   return (
