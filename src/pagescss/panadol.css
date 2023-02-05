@@ -42,9 +42,3 @@ h2.two{
     max-height: 300px;
 
 }
-.hoverbutton{
-    transform: translate(0%,800%);
-}
-.hoverlabel{
-    transform: translate(0%,900%);
-}
