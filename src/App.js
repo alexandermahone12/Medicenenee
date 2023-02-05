@@ -15,7 +15,6 @@ import Panadol from './pages/panadol';
 import './App.css';
 
 
-
 function App() {
   return (
     <div className="App">

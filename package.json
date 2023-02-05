@@ -11,7 +11,7 @@
     "@testing-library/user-event": "^12.1.10",
     "i": "^0.3.7",
     "install": "^0.13.0",
-    "lightbox.js-react": "^0.2.4",
+    "lightbox.js-react": "^0.3.3",
     "npm": "^8.18.0",
     "react": "^17.0.2",
     "react-animated-slider": "^1.1.4",
@@ -48,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
