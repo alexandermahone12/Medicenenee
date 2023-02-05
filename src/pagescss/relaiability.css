@@ -7,3 +7,12 @@
 
     transform: translate(-50%, 20%)
 }
+.h1reliable h2{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+    padding: 1em;
+    position: absolute;
+
+    transform: translate(-50%, 371%)
+}
