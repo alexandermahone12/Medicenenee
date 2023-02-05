@@ -21,21 +21,11 @@ const Panadol = () => {
       <h2 class = 'two'>This drug should be consumed once every 6 hours. If you miss a dose(one pill), do not take two doses at once.</h2>
       <div className='slideshow'>
       <SlideshowLightbox showThumbnails="true" theme="lightbox" className='images'>
-        <img src='https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/panadol/en_ie/ireland-products/panadol-tablets/MGK5158-GSK-Panadol-Tablets-455x455.png?auto=format' />
-        <img src='https://www.abibapharmacia.com/wp-content/uploads/2022/08/Diptamp-650-Tab.png' />  
+        <img src='https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/panadol/en_ie/ireland-products/panadol-tablets/MGK5158-GSK-Panadol-Tablets-455x455.png?auto=format' alt='panado1' />
+        <img src='https://www.abibapharmacia.com/wp-content/uploads/2022/08/Diptamp-650-Tab.png' alt='panadol2' />  
 
       
       </SlideshowLightbox> 
-      <button className = "hoverbutton"
-        onMouseEnter={() => setIsShown(true)}
-        onMouseLeave={() => setIsShown(false)}>
-        Hover over me!
-      </button>
-      {isShown && (
-        <div className='hoverlabel'>
-          <h1>Hi</h1>
-        </div>
-      )}
 
 
 
