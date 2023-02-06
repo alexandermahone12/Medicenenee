@@ -1,9 +1,10 @@
 .content h2{
+    vertical-align: top;
     color: white;
     font-family: Manrope;
     font-weight: 800;
-    padding: 1em;
-    position: absolute;
 
-    transform: translate(-50%, 20%)
+    position: absolute;
+    overflow-x: hidden;
+    transform: translate(-550px,20px)
 }

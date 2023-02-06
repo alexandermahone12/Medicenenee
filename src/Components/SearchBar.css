@@ -2,12 +2,8 @@
   margin-top: 105px;
   border-radius: 25px;
   display: flex;
-  padding: 1em;
-  position: absolute;
-  top: 20%;
-  left: 51%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%)
+
+
 }
 
 .search input {
@@ -19,7 +15,7 @@
   font-size: 18px;
   padding: 15px;
   height: 30px;
-  width: 300px;
+  width: 200px;
   
 }
 
@@ -46,7 +42,7 @@ input:focus {
 .dataResult {
   
   margin-left: 55px;
-  width: 300px;
+  width: 200px;
   height: 200px;
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -56,10 +52,7 @@ input:focus {
   border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
   position: absolute;
-    top:50%;
-    left: 44.5%;
-    margin-right: -40%;
-    transform: translate(-50%, -50%)
+  transform: translate(-40px, 15px);
 }
 
 .dataResult::-webkit-scrollbar {

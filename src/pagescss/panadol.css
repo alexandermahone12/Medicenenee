@@ -1,3 +1,4 @@
+@media screen and (min-width: 480px){
 .panadol h1{
     color: white;
     font-family: Manrope;
@@ -5,7 +6,7 @@
     padding: 1em;
     position: absolute;
 
-    transform: translate(70%, -20%)
+
 }
 h2.one{
     color: white;
@@ -14,7 +15,7 @@ h2.one{
     padding: 1em;
     position: absolute;
     max-width: 800px;
-    transform: translate(25%, 70%)
+
 
 }
 
@@ -25,14 +26,14 @@ h2.two{
     padding: 1em;
     position: absolute;
     max-width: 800px;
-    transform: translate(25%, 50%)
+
 }
 
 .images {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    transform: translate(-75%,25%);
+    transform: translate(-500px,70px);
 
 }
 
@@ -42,9 +43,56 @@ h2.two{
     max-height: 300px;
 
 }
-.hoverbutton{
-    transform: translate(0%,800%);
 }
-.hoverlabel{
-    transform: translate(0%,900%);
+@media screen and (max-width: 480px) {
+    .panadol h1{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        padding: 1em;
+        position: absolute;
+        transform: translate(0px,-30px);
+    
+    
+    }
+    h2.one{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        padding: 1em;
+        position: absolute;
+        max-width: 300px;
+        transform: translate(0px,400px);
+    
+    
+    }
+    
+    h2.two{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        padding: 1em;
+        position: absolute;
+        max-width: 300px;
+        transform: translate(0px,1000px);
+    
+    }
+
+    .images {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        transform: translate(0px,65px);
+    
+    }
+    
+    .images img {
+        flex-basis: 33%;
+        padding: 2px;
+        max-height: 200px;
+    
+    }
+    
+
+
 }

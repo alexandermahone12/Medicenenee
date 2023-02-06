@@ -1,15 +1,15 @@
 [
   {
     "title": "Panadol",
-    "link": "http://localhost:3000/panadol"
+    "link": "panadol"
   },
   {
     "title": "Paracetamol",
-    "link": "http://localhost:3000/panadol"
+    "link": "panadol"
   },
   {
     "title": "Cortisone",
-    "link": "http://localhost:3000/cortisone"
+    "link": "cortisone"
   },
   {
     "title":"test",
