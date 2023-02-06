@@ -1,8 +1,8 @@
 import React from "react";
 import "@fontsource/manrope";
 import "./App.css";
-import SearchBar from "./Components/SearchBar";
-import BookData from "./Data.json";
+/*import SearchBar from "./Components/SearchBar";
+import BookData from "./Data.json";*/
 import Navbar from './Components/Navbar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './pages';

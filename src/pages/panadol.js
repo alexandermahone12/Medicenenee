@@ -1,4 +1,4 @@
-import React, {useState}from 'react';
+import React from 'react';
 
 import '../pagescss/panadol.css';
 import "@fontsource/manrope";
@@ -12,7 +12,7 @@ initLightboxJS("3E75-39D4-3522-BE16", "Individual");
 
 
 const Panadol = () => {
-  const [isShown, setIsShown] = useState(false);
+  
   return (
     
     <div className = 'panadol'>
