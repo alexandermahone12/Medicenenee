@@ -8,6 +8,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './pages';
 import About from './pages/about';
 import Goal from './pages/goal';
+import Cortisone from './pages/cortisone';
 import Howto from './pages/howto';
 /*import SignUp from './pages/signup';*/
 import Relaiability from './pages/relaiability';
@@ -28,6 +29,7 @@ function App() {
       <Route path='/goal' component={Goal} />
       <Route path='/relaiability' component={Relaiability} />
       <Route path='/panadol' component={Panadol} />
+      <Route path='/cortisone' component={Cortisone} />
       </Switch>
     </Router>
 

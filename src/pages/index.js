@@ -7,7 +7,7 @@ const Home = () => {
   return (
     
     <div>
-      <div className="content">
+      <div className="contentmain">
         <h1 className="title">Find Medicines</h1>
       </div>
 

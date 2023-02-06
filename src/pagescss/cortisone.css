@@ -1,0 +1,299 @@
+@media screen and (min-width: 500px){
+    h1.title00{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(200px,-10px);
+    
+    
+    }
+    h1.title10{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px,60px);
+    
+    
+    }
+    h1.title20{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px,200px);
+    
+    
+    }
+    h1.title30{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px,450px);
+    
+    
+    }
+    h1.title40{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px,650px);
+    
+    
+    }
+    h1.title50{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px, 900px);
+    
+    
+    }
+    h1.title60{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px, 1080px);
+    
+    
+    }
+    
+    h2.info10{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px,110px);
+    
+    
+    }
+    h2.info20{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px,300px);
+    
+    
+    }
+    h2.info30{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px,500px);
+    
+    
+    }
+    h2.info40{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px,700px);
+    
+    
+    }
+    h2.info50{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px,950px);
+    
+    
+    }
+    h2.info60{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+        transform: translate(150px,1130px);
+    
+    
+    }
+    .images {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        transform: translate(-450px,50px);
+    
+    }
+    
+    .images img {
+        flex-basis: 33%;
+        padding: 2px;
+        max-height: 300px;
+    
+    }
+    }
+    @media screen and (max-width: 480px) {
+        h1.title00{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            padding: 1em;
+            position: absolute;
+            transform: translate(10px,-40px);
+        
+        
+        }
+        
+        h1.title10{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,300px);
+        
+        
+        }
+        h1.title20{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,600px);
+        
+        
+        }
+        h1.title30{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,1000px);
+        
+        
+        }
+        h1.title40{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,1300px);
+        
+        
+        }
+        h1.title50{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,1750px);
+        
+        
+        }
+        h1.title60{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px, 2150px);
+        
+        
+        }
+    
+        h2.info10{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,400px);
+        
+        
+        }
+        h2.info20{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,800px);
+        
+        
+        }
+        h2.info30{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,1100px);
+        
+        
+        }
+        h2.info40{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,1400px);
+        
+        
+        }
+        h2.info50{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,1850px);
+        
+        
+        }
+        h2.info60{
+            color: white;
+            font-family: Manrope;
+            font-weight: 800;
+            max-width: 350;
+            position: absolute;
+            transform: translate(0px,2250px);
+        
+        
+        }
+    
+        .images {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            transform: translate(0px,65px);
+        
+        }
+        
+        .images img {
+            flex-basis: 33%;
+            padding: 2px;
+            max-height: 200px;
+        
+        }
+        
+    
+    
+    }

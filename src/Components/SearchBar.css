@@ -16,6 +16,7 @@
   padding: 15px;
   height: 30px;
   width: 200px;
+  transform: translate(10px, -50px);
   
 }
 
@@ -30,6 +31,7 @@
   display: grid;
   place-items: center;
   margin-left: 10px;
+  transform: translate(10px, -50px);
 }
 
 input:focus {
@@ -52,7 +54,7 @@ input:focus {
   border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
   position: absolute;
-  transform: translate(-40px, 15px);
+  transform: translate(-31px, -40px);
 }
 
 .dataResult::-webkit-scrollbar {

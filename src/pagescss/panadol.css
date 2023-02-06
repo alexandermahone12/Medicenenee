@@ -1,39 +1,140 @@
-@media screen and (min-width: 480px){
-.panadol h1{
+@media screen and (min-width: 500px){
+h1.title0{
     color: white;
     font-family: Manrope;
     font-weight: 800;
-    padding: 1em;
+
     position: absolute;
+    transform: translate(200px,-10px);
 
 
 }
-h2.one{
+h1.title1{
     color: white;
     font-family: Manrope;
     font-weight: 800;
-    padding: 1em;
+
     position: absolute;
-    max-width: 800px;
+    transform: translate(150px,60px);
 
 
 }
-
-h2.two{
+h1.title2{
     color: white;
     font-family: Manrope;
     font-weight: 800;
-    padding: 1em;
+
     position: absolute;
-    max-width: 800px;
+    transform: translate(150px,200px);
+
+
+}
+h1.title3{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    transform: translate(150px,450px);
+
+
+}
+h1.title4{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    transform: translate(150px,650px);
+
+
+}
+h1.title5{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    transform: translate(150px, 900px);
+
+
+}
+h1.title6{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    transform: translate(150px, 1080px);
+
 
 }
 
+h2.info1{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    transform: translate(150px,110px);
+
+
+}
+h2.info2{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    transform: translate(150px,300px);
+
+
+}
+h2.info3{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    transform: translate(150px,500px);
+
+
+}
+h2.info4{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    transform: translate(150px,700px);
+
+
+}
+h2.info5{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    transform: translate(150px,950px);
+
+
+}
+h2.info6{
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    transform: translate(150px,1130px);
+
+
+}
 .images {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    transform: translate(-500px,70px);
+    transform: translate(-450px,50px);
 
 }
 
@@ -45,36 +146,136 @@ h2.two{
 }
 }
 @media screen and (max-width: 480px) {
-    .panadol h1{
+    h1.title0{
         color: white;
         font-family: Manrope;
         font-weight: 800;
         padding: 1em;
         position: absolute;
-        transform: translate(0px,-30px);
-    
-    
-    }
-    h2.one{
-        color: white;
-        font-family: Manrope;
-        font-weight: 800;
-        padding: 1em;
-        position: absolute;
-        max-width: 300px;
-        transform: translate(0px,400px);
+        transform: translate(60px,-30px);
     
     
     }
     
-    h2.two{
+    h1.title1{
         color: white;
         font-family: Manrope;
         font-weight: 800;
-        padding: 1em;
+        max-width: 350;
         position: absolute;
-        max-width: 300px;
+        transform: translate(0px,450px);
+    
+    
+    }
+    h1.title2{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
+        transform: translate(0px,650px);
+    
+    
+    }
+    h1.title3{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
         transform: translate(0px,1000px);
+    
+    
+    }
+    h1.title4{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
+        transform: translate(0px,1300px);
+    
+    
+    }
+    h1.title5{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
+        transform: translate(0px,1850px);
+    
+    
+    }
+    h1.title6{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
+        transform: translate(0px, 2150px);
+    
+    
+    }
+
+    h2.info1{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
+        transform: translate(0px,550px);
+    
+    
+    }
+    h2.info2{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
+        transform: translate(0px,850px);
+    
+    
+    }
+    h2.info3{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
+        transform: translate(0px,1100px);
+    
+    
+    }
+    h2.info4{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
+        transform: translate(0px,1400px);
+    
+    
+    }
+    h2.info5{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
+        transform: translate(0px,1950px);
+    
+    
+    }
+    h2.info6{
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+        max-width: 350;
+        position: absolute;
+        transform: translate(0px,2250px);
+    
     
     }
 
@@ -96,3 +297,5 @@ h2.two{
 
 
 }
+
+

@@ -1,0 +1,45 @@
+@media screen and (min-width: 500px){
+.about h1{
+    vertical-align: top;
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    overflow-y: hidden;
+    transform: translate(-40px,20px)
+}
+.about h2{
+    vertical-align: top;
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    overflow-y: hidden;
+    transform: translate(-300px,100px)
+}
+}
+
+@media screen and (max-width: 500px){
+    .about h1{
+        vertical-align: top;
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+
+        transform: translate(-40px,20px)
+    }
+    .about h2{
+        vertical-align: top;
+        color: white;
+        font-family: Manrope;
+        font-weight: 800;
+    
+        position: absolute;
+
+        transform: translate(-100px,100px)
+    }
+}

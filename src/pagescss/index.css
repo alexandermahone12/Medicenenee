@@ -1,11 +1,11 @@
 
 
-.content h1 {
+.contentmain h1 {
     vertical-align: top;
     color: white;
     font-family: Manrope;
     font-weight: 800;
-    transform: translate(35px, 70px);
+    transform: translate(35px, 15px);
 }
 
 

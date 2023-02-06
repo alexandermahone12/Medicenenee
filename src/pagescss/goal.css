@@ -6,5 +6,15 @@
 
     position: absolute;
     overflow-x: hidden;
-    transform: translate(-550px,20px)
+    transform: translate(-370px,90px)
+}
+.content h1{
+    vertical-align: top;
+    color: white;
+    font-family: Manrope;
+    font-weight: 800;
+
+    position: absolute;
+    overflow-x: hidden;
+    transform: translate(-20px,20px)
 }
