@@ -12,8 +12,100 @@
     "link": "cortisone"
   },
   {
-    "title":"test",
-    "link": ""
+    "title":"Metformin",
+    "link": "metformin"
+  },
+  {
+    "title":"Diabetes",
+    "link": "metformin"
+  },
+  {
+    "title":"Swelling",
+    "link": "ibuprofen"
+  },
+  {
+    "title":"Blood problems",
+    "link": "cortisone"
+  },
+  {
+    "title":"Pain",
+    "link": "panadol"
+  },
+  {
+    "title":"Ibuprofen",
+    "link": "ibuprofen"
+  },
+  {
+    "title":"Period",
+    "link": "ibuprofen"
+  },
+  {
+    "title":"Blood sugar",
+    "link": "metformin"
+  },
+  {
+    "title":"Augmentin",
+    "link": "augmentin"
+  },
+  {
+    "title":"bacterial infection",
+    "link": "augmentin"
+  },
+  {
+    "title":"Amoxicillin",
+    "link": "augmentin"
+  },
+  {
+    "title":"Trazodone",
+    "link": "trazodone"
+  },
+  {
+    "title":"Depression",
+    "link": "trazodone"
+  },
+  {
+    "title":"Anxiety",
+    "link": "trazodone"
+  },
+  {
+    "title":"Mental health",
+    "link": "trazodone"
+  },
+  {
+    "title":"Antidepressants",
+    "link": "trazodone"
+  },
+  {
+    "title":"Accutane",
+    "link": "accutane"
+  },
+  {
+    "title":"Isotretinoin",
+    "link": "accutane"
+  },
+  {
+    "title":"Acne",
+    "link": "accutane"
+  },
+  {
+    "title":"Pimples",
+    "link": "accutane"
+  },
+  {
+    "title":"Skin cancer",
+    "link": "accutane"
+  },
+  {
+    "title":"Aspirin",
+    "link": "aspirin"
+  },
+  {
+    "title":"Fever",
+    "link": "aspirin"
+  },
+  {
+    "title":"Arthritis",
+    "link": "aspirin"
   }
 
 ]
